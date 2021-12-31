@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #23404B;
+    color: #fff;
+    font-family:'Times New Roman', Times, serif
+}
+.cardbg{
+    background:linear-gradient(90deg,#DBC9A1,#3F5152);
+}
+
+#countries,#countries2,#countries3{
+    width: 10.5em;
+}
+img{
+    height: 12em;
+    margin-bottom: 2em;
+}
